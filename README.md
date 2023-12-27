@@ -11,11 +11,10 @@ To write a python program for reading content from a CSV file.
 
 ## PROGRAM:
 ```
-'''
-Developed by: Dhandeeswaran selvakumar
-Register No: 23006838
-'''
-To write a python program for reading content from a CSV file.
+#Developed by: Dhandeeswaran selvakumar
+#Register No: 23006838
+#To write a python program for reading content from a CSV file.
+
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
@@ -25,7 +24,7 @@ print("Number of columns:",len(df.axes[1]))
 
 ```
 ## OUTPUT:
-![image](https://github.com/MOHAMEDFAROOK2005/Read-from-CSV/assets/150319482/3235698a-d771-4e37-b68b-67398416001a)
+![Screenshot 2023-12-27 160243](https://github.com/dhandeeswaran2005/Read-from-CSV/assets/147139188/70d31fd1-35ca-4b8a-b693-b8b2b471e20f)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
