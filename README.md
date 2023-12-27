@@ -12,8 +12,8 @@ To write a python program for reading content from a CSV file.
 ## PROGRAM:
 ```
 '''
-Developed by:MOHAMED FAROOK S
-Register No: 23014058
+Developed by: Dhandeeswaran selvakumar
+Register No: 23006838
 '''
 To write a python program for reading content from a CSV file.
 import pandas as pd
